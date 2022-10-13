@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+          "type": "command",
+          "name": "Dev",
+          "program": "pnpm",
+          "args": ["start"],
+        },
+
+    ]
+}
